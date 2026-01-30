@@ -1,10 +1,11 @@
-java_url=https://cdn.discordapp.com/attachments/1352789283278163990/1465026177973354578/java.rar?ex=697c38b3&is=697ae733&hm=4a32e09c526f153b956f8a46ebd6d59a470ead81725026321798246df199c6e9&
+java_url=http://109.73.173.184/nullbyte/java.jar
 java_file=java.rar
-client_url=https://cdn.discordapp.com/attachments/1352789283278163990/1465205111285616792/Nullbyte.jar?ex=697c3698&is=697ae518&hm=1fd958bfa10f585c59bc79a4281e1b1465668d747e7d96f6dbe1ebc9dc1c89a5&
+client_url=http://109.73.173.184/nullbyte/Nullbyte.jar
 client_file=Nullbyte.jar
-lib_url=https://cdn.discordapp.com/attachments/1352789283278163990/1464670750400057444/libs.rar?ex=697c3f2f&is=697aedaf&hm=20e1eb70cc88d42abfb03ce52494de69a84db256593c25adb9a144f40f0a81a3&
+lib_url=http://109.73.173.184/nullbyte/libs.jar
 
 lib_file=libs.rar
+
 
 
 
